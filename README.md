@@ -14,3 +14,12 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+#deskripsi
+project flutter dibuat untuk mengontrol arduino dengan koneksi bluetooth.
+hal yang akan dikontrol yaitu berjalannya program didalamnya.
+
+#update priode 27-11-23 sampai 1-12-12
+
+
+
